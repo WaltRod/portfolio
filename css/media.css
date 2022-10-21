@@ -1,4 +1,4 @@
-@media screen and (max-width: 760px){
+@media screen and (max-width: 1024px){
     body{
         margin: 0 auto;
         margin-left: 20px;
@@ -11,11 +11,17 @@
     }
 
     .ul-icons{
-        display: none;
+        height: 100px;
+        width: 250px;
     }
 
     .copyright{
-        display: none;
+        font-size: 34px;
+        margin-left: -38px;
+    }
+    
+    .waltineo{
+     margin-right: 20px;
     }
 
     .lilas{
