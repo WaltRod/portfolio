@@ -6,8 +6,13 @@
     }
 
     .walt{
-        width: 100px;
+        width: 200px;
         margin-bottom: -35px;
+    }
+    
+    .walttitle{
+        font-size: 30px;
+        margin-top: 50%;
     }
 
     .ul-icons{
